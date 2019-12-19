@@ -1,0 +1,215 @@
+{
+  "main": {
+    "name":"Saundra Barrett",
+    "occupation":"Full Stack Developer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "frontendskillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "backendskillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"James Madison University",
+        "degree":"Bachelors of Science",
+        "graduated":"May 2003",
+        "description":"Major in Media Arts and Design with a concentration in Interactive Media."
+      }
+    ],
+    "work":[
+      {
+        "company":"Emory University",
+        "title":"Lead Software Engineer",
+        "years":"January 2017 - Present",
+        "description":"Assist in the day-to-day operations of the Software Engineering Team including management of other software engineers. Improve functionality through user interface design and revise the code of web applications. Prioritize business needs of applications through the gathering of requirements from stakeholders. Consult with teams across campus to ensure best practices are being adhered to. Create branding guidelines and pattern library for all web applications produced by Emory Libraries and Information Technology. Conduct code reviews with junior team members to ensure code is clean and efficient."
+      },
+      {
+        "company":"Emory University",
+        "title":"Senior Software Engineer",
+        "years":"September 2015 - January 2017",
+        "description":"Improved functionality through user interface design and revise the code of web applications. Prioritized business needs of applications through the gathering of requirements from stakeholders. Utilized analytical tools to test the effectiveness of new applicationsvand proposed new features based on analysis. Lead proof-of-concept projects to test new technologies for implementation. Identified, designed, developed, implemented, and reviewed software applications to meet the University needs using Ruby on Rails, Django, PHP and Java."
+      },
+      {
+        "company":"Emory University",
+        "title":"Senior Web Developer",
+        "years":"September 2013 - September 2015",
+        "description":"Responsible for visual design of over 20 new and existing websites affiliated with Emory University. Assisted the Director in the day-to-day operations of the Web Communications area including management of 3 web developers. Conducted user-research through the analysis of current behaviors, future needs, interviewing key stakeholders and target audience and leveraged user-research to design and develop intuitive user experiences across multiple Emory University entities. Educated team members of industry-leading practices and emerging trends and ensured proper implementation across the team. Developed production-ready HTML, JavaScript, JQuery and CSS code. Performed initial intake on projects and followed through on prescribed steps to completion. Conducted code reviews for team members and facilitated effective team interaction for optimum results on projects."
+      },
+      {
+        "company":"SunTrust Bank",
+        "title":"Web Developer",
+        "years":"March 2007 - February 2010",
+        "description":"Developed production support portals using Codeignitor, Zend and Kohana MVC frameworks, HTML5, PHP, SQL and CSS. Conducted focus group studies to ensure user experience best practices were being implemented. Managed project requirements and deadlines. Created support documentation and hold training sessions for users. Responsible for the company-wide communication and release of portals."
+      }
+    ],
+    "awards":[
+      {
+        "name": "Significant Contribution Award 2016",
+        "project": "Billops-Hatch Exhibition",
+        "year": "2016",
+        "company": "Emory University",
+        "description": "The Significant Contribution Awards recognize individual or team/group contributions toward significant, milestone LITS division achievements during the fiscal year, while also exemplifying organizational values. Received award for development and design for Billops-Hatch exhibition site."
+      },
+      {
+        "name": "Grand Award | Electronic and Digital Media | Alumni Website",
+        "project": "Emory Alumni Association",
+        "year": "2017",
+        "company": "Council for Advancement and Support of Education Southeast District III",
+        "description": "Judged for excellence in design, content and implementation. Particular emphasis placed on usability, aesthetics, creativity and technical expertise as they relate to stated objectives."
+      },
+      {
+        "name": "Significant Contribution Award 2019",
+        "project": "User-Centric Web Applications",
+        "year": "2018 / 2019",
+        "company": "Emory University",
+        "description": "The Significant Contribution Awards recognizes individuals toward significant, milestone LITS division achievements during the fiscal year, while also exemplifying organizational values. Received award for developing user-centric applications."
+      },
+      {
+        "name": "Essentials of Leadership Graduate",
+        "project": "Essentials of Leadership",
+        "year": "2019",
+        "company": "Emory University",
+        "description": "The Essentials of Leadership program provides managers and leaders with opportunities to gain the necessary skills required to successfully lead a team."
+      }
+    ],
+    "frontendSkills":[
+      {
+        "name":"UI / UX",
+        "level":"90%"
+      },
+      {
+        "name":"HTML & CSS",
+        "level":"90%"
+      },
+      {
+        "name":"SCSS / LESS",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"VueJS",
+        "level":"40%"
+      },
+      {
+        "name":"JQuery",
+        "level":"80%"
+      }
+    ],
+    "backendSkills":[
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"Oracle",
+        "level":"40%"
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":"80%"
+      },
+      {
+        "name":"Python / Django",
+        "level":"30%"
+      }
+    ],
+    "otherSkills":[
+      {
+        "name":"GIT",
+        "level":"70%"
+      },
+      {
+        "name":"Adobe Design Suite",
+        "level":"90%"
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":"80%"
+      },
+      {
+        "name":"Python / Django",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "work": [
+      {
+        "title":"Clinical Trials at Emory",
+        "category":"Site to show all current Clinical Trials at Emory University from clinicaltrials.gov.",
+        "image":"clinical-trials.jpg",
+        "url":"http://clinicaltrials.emory.edu/index.html"
+      },
+      {
+        "title": "Research Template Library",
+        "category": "",
+        "image": "template-library.jpg",
+        "url": "http://rtl.emory.edu"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Saundra has given SOM Research thoughtful and artful ideas and work support. We’re grateful for her time and partnership and look forward to continuing to work together.",
+        "user":"Project Sponsor"
+      },
+      {
+        "text":"Saundra has good experience on the User Interface and User Experience; although, we used a modern tech stack, Saundra had a good understanding of the ReactJS libraries and was able to spin up a frontend with sourcing data from json files within a few days; with having competing priorities, she was able to deliver her end of the work in a timely manner...",
+        "user":"Deepthi Viijay, Emory University"
+      }
+    ]
+  }
+}
